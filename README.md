@@ -8,4 +8,4 @@ One player thinks of a word or phrase; the others try to guess what it is one le
 
 # Setup for Development
 
-git clone https://github.com/Saikowsik23/hangman.git
+**git clone https://github.com/Saikowsik23/hangman.git
