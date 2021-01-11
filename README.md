@@ -1,6 +1,6 @@
 # Hangman
 
-A simple hangman game made with Python and Javascript.
+A simple hangman game made with Python
 
 # The rules of this game are:
 
